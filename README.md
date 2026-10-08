@@ -16,8 +16,8 @@ Die Website ist in HTML, CSS und JavaScript gebaut. Sie benötigt keinen Build-S
 - **Social Media:** Trage die vollständige Domain bei `og:url` sowie die absolute URL eines Vorschaubilds bei `og:image` ein.
 - **Kontaktformular:** Es versendet noch keine Daten. Die Stelle zum späteren Anbinden eines Formulardienstes ist im HTML kommentiert. Aktualisiere dann auch die Datenschutzhinweise.
 
-## Original-Logos
+## Logos
 
-Die gelieferten Cashlotse-PNGs liegen unverändert in `assets/`. Die horizontale helle Variante wird in Kopf- und Fußzeile verwendet, die vertikale dunkle Variante prominent im Hero. Die beiden Dateien „Cashlotse Logo auf dunklem Hintergrund“ waren bytegleich; deshalb ist davon nur eine Kopie enthalten.
+Die neuen Cashlotse-Logo- und Kompass-Varianten liegen in `assets/`. Die transparente horizontale Variante wird in Kopf- und Fußzeile verwendet; die helle Variante auf dunklem Hintergrund erscheint im Hero. Die früheren Logo-PNGs wurden entfernt.
 
 Es werden keine externen Schrift-, Analyse-, Tracking- oder Cookie-Dienste geladen. Die Schriftwahl nutzt vorhandene Systemschriften. Scrollanimationen und Seitenübergänge respektieren `prefers-reduced-motion`.
